@@ -1,4 +1,4 @@
-Typing Speed Test Game
+#Typing Speed Test Game
 
 This is a Python-based Typing Speed Test game built using Pygame. It challenges users to type random sentences accurately and quickly, providing real-time feedback on typing speed (WPM), accuracy, and total time taken.
 
@@ -11,10 +11,6 @@ Real-Time Feedback: Displays words per minute (WPM), accuracy percentage, and to
 Interactive UI: Clean and simple UI with background images and icons.
 
 Reset Option: Ability to reset the game and try again.
-
-Demo
-
-
 
 Getting Started
 
@@ -30,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/shorya1117/Typing-Test.git
+git clone https://github.com/shorya1117/Typing-Test-.git
 cd typing-speed-test
 
 Add Required Assets:
